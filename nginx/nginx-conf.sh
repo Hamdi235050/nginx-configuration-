@@ -8,9 +8,6 @@ echo '#Removin existing config file...'
 rm -f data/nginx/app.conf
 cd data/nginx
 
-
-mv _aluplastic.cpo.wattzhub.com.tmp _aluplastic.cpo.wattzhub.com.conf
-
 cd ..
 cd ..
 
